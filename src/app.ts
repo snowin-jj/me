@@ -1,6 +1,9 @@
 import express, { Request, Response } from 'express';
 import morgan from 'morgan';
 import router from './router';
+import { inject } from '@vercel/analytics';
+
+inject();
 
 const app = express();
 

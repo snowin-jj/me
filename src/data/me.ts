@@ -7,7 +7,7 @@ export default {
     site: 'https://devsnow.in',
     short_desc: "I'm Snowin fullstack developer based in India.",
     long_desc:
-        'I am a full-stack developer. I create software for small businesses and startups.Aside from that, I am an introvert. Working in groups is something I enjoy doing. Feel free to strike up a conversation!',
+        'I am a full-stack developer. I create software applications and websites for small businesses and startups.Aside from that I enjoy working on team projects so feel free to text me',
     media_links: [
         {
             id: '82a459fc-694f-46b0-ba80-8978b9f3179c',
