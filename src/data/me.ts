@@ -12,22 +12,22 @@ export default {
         {
             id: '82a459fc-694f-46b0-ba80-8978b9f3179c',
             platform: 'Github',
-            url: 'https://github.com/devsnowin',
+            url: 'https://github.com/snowin-jj',
         },
         {
             id: '401ee1ca-4d91-41b3-96fd-eb4d8541b9c1',
             platform: 'Linkedin',
-            url: 'https://www.linkedin.com/in/im-snowin/',
+            url: 'https://www.linkedin.com/in/snowin-jj/',
         },
         {
             id: 'b708c157-90e8-4e62-856b-8cffc8c2aab4',
             platform: 'Twitter',
-            url: 'https://twitter.com/im_snowin',
+            url: 'https://twitter.com/snowin_jj',
         },
         {
             id: 'bb2949dc-a48d-4bfc-8831-b589edd45528',
             platform: 'Instagram',
-            url: 'https://instagram.com/im_snowin',
+            url: 'https://www.instagram.com/snowin_jj/',
         },
     ],
     side_projects: [
