@@ -5,7 +5,7 @@ import router from './router';
 const app = express();
 
 // Public assets
-app.use(express.static(__dirname + '/public'));
+app.use(express.static('/public'));
 
 // Middlewares
 app.use(morgan('dev'));
