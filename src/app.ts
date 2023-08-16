@@ -12,7 +12,7 @@ app.use(morgan('dev'));
 
 // Routes
 app.get('/', (req: Request, res: Response) => {
-    res.status(200).json(`Want to know about snowin! Go to: '/me'`);
+    res.status(200).json(`Want to know about Snowin? Go to: '/me'`);
 });
 app.use('/me', router);
 
