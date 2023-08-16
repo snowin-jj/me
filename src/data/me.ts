@@ -1,5 +1,5 @@
 export default {
-    avatar: `${process.env.SERVER_URL}/me/avatar.png`,
+    avatar: `${process.env.SERVER_URL}/me/avatar.PNG`,
     banner: `${process.env.SERVER_URL}/me/banner.png`,
     name: 'snowin',
     full_name: 'Snowin J',
